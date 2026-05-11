@@ -2,7 +2,7 @@
 # These modules require additional arguments to be functional.
 #
 # module "ai-datalake" {
-#   source  = "github.com/POps-Rox/tf-az-overlays-storageaccount"
+#   source  = "github.com/POps-Rox/terraform-az-overlays-storageaccount"
 #   version = ">=1.0.0"
 #   # Required: location, deploy_environment, org_name, workload_name, environment
 # }
